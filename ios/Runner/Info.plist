@@ -4,6 +4,14 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
+
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Necesito acceso al carrete</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Necesito acceso a la cámara</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Quiero escucharte</string>
+	
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
